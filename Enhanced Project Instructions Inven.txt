@@ -1,6 +1,7 @@
 Enhanced Project Instructions: Inventory Management System (IMS) for Serrano Tex
 Project Overview
-This document provides step-by-step instructions for developing a comprehensive Inventory Management System using React Native and Supabase as the backend database. The system will be cross-platform (iOS, Android, Desktop) with multi-role user management, real-time synchronization, and a stunning UI with both light and dark modes.
+This document provides step-by-step instructions for developing a comprehensive Inventory Management System using React Native and Supabase as the backend database. The system will be cross-platform (iOS, Android, Desktop) with multi-role user management, real-time synchronization, and a stunning UI with both light and dark modes. It must me responsive for All devices like ios, android, Web
+
 Key Improvements Identified and Integrated:
 Enhanced Theme Management System
 •	More comprehensive color palette with specific hex codes
