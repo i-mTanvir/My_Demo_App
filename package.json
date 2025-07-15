@@ -1,0 +1,10 @@
+@@ .. @@
+   "scripts": {
+-    "dev": "vite",
+-    "build": "tsc -b && vite build",
++    "dev": "npx vite",
++    "build": "tsc -b && npx vite build",
+     "lint": "eslint .",
+-    "preview": "vite preview"
++    "preview": "npx vite preview"
+   },
